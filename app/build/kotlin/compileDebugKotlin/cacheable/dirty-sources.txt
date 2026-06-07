@@ -1,0 +1,11 @@
+/data/data/com.tom.rv2ide/files/home/ACSProjects/WearWorldTime/app/src/main/java/com/example/wearworldtime/ui/theme/Type.kt
+/data/data/com.tom.rv2ide/files/home/ACSProjects/WearWorldTime/app/src/main/java/com/example/wearworldtime/ui/components/CityCard.kt
+/data/data/com.tom.rv2ide/files/home/ACSProjects/WearWorldTime/app/src/main/java/com/example/wearworldtime/viewmodel/MainViewModel.kt
+/data/data/com.tom.rv2ide/files/home/ACSProjects/WearWorldTime/app/src/main/java/com/example/wearworldtime/ui/components/RotaryHandler.kt
+/data/data/com.tom.rv2ide/files/home/ACSProjects/WearWorldTime/app/src/main/java/com/example/wearworldtime/ui/screens/HomeScreen.kt
+/data/data/com.tom.rv2ide/files/home/ACSProjects/WearWorldTime/app/src/main/java/com/example/wearworldtime/data/TimeZoneRepository.kt
+/data/data/com.tom.rv2ide/files/home/ACSProjects/WearWorldTime/app/src/main/java/com/example/wearworldtime/ui/screens/SearchScreen.kt
+/data/data/com.tom.rv2ide/files/home/ACSProjects/WearWorldTime/app/src/main/java/com/example/wearworldtime/ui/theme/Color.kt
+/data/data/com.tom.rv2ide/files/home/ACSProjects/WearWorldTime/app/src/main/java/com/example/wearworldtime/data/City.kt
+/data/data/com.tom.rv2ide/files/home/ACSProjects/WearWorldTime/app/src/main/java/com/example/wearworldtime/ui/theme/Theme.kt
+/data/data/com.tom.rv2ide/files/home/ACSProjects/WearWorldTime/app/src/main/java/com/example/wearworldtime/MainActivity.kt
