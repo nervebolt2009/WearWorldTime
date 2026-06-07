@@ -7,8 +7,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.wear.compose.material.*
 import com.example.wearworldtime.ui.components.CityCard
-import com.example.wearworldtime.ui.components.RotaryHandler
+import com.example.wearworldtime.ui.components.rotaryHandler
 import com.example.wearworldtime.viewmodel.MainViewModel
+import androidx.compose.material.FloatingActionButton
+import androidx.compose.material.IconButton
 
 @Composable
 fun HomeScreen(

@@ -19,7 +19,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.wear.compose.material.Icon
-import androidx.wear.compose.material.IconButton
+import androidx.compose.material.IconButton
 import androidx.wear.compose.material.Text
 import com.example.wearworldtime.data.City
 import com.example.wearworldtime.ui.theme.*

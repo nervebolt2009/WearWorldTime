@@ -10,10 +10,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.wear.compose.material.*
 import com.example.wearworldtime.data.City
-import com.example.wearworldtime.ui.components.RotaryHandler
+import com.example.wearworldtime.ui.components.rotaryHandler
 import com.example.wearworldtime.viewmodel.MainViewModel
+import androidx.compose.material.IconButton
 
-@OptIn(ExperimentalMaterialApi::class)
+@OptIn(ExperimentalWearMaterialApi::class)
 @Composable
 fun SearchScreen(
     viewModel: MainViewModel,
