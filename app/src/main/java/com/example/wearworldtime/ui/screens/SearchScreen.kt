@@ -26,7 +26,7 @@ fun SearchScreen(
     Scaffold(
         timeText = { TimeText() },
         vignette = { Vignette(vignettePosition = VignettePosition.TopAndBottom) },
-        positionIndicator = { PositionIndicator(scalingType = ScalingType.BelowAlways) }
+        positionIndicator = { PositionIndicator(scalingLazyListState = listState) }
     ) {
         Column(
             modifier = Modifier

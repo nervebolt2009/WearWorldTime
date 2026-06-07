@@ -23,7 +23,7 @@ fun HomeScreen(
     Scaffold(
         timeText = { TimeText() },
         vignette = { Vignette(vignettePosition = VignettePosition.TopAndBottom) },
-        positionIndicator = { PositionIndicator(scalingType = ScalingType.BelowAlways) }
+        positionIndicator = { PositionIndicator(scalingLazyListState = listState) }
     ) {
         Box(
             modifier = Modifier
